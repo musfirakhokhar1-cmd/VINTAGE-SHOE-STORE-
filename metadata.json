@@ -1,0 +1,6 @@
+{
+  "name": "WALKIFY - Premium Vintage Shoe Store",
+  "description": "A complete professional vintage luxury shoe store application built with HTML, CSS, and Vanilla JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
